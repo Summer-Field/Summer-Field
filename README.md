@@ -15,7 +15,7 @@ And it's a basement for Field's life pieces.
 Including:
 - guitar tabs🎼 made by me.
 - daily learning notes📒 about Music or CS.
-- mumble mumble...?
+- mumble mumble💩...?
 
 #### Where to reach me
 
