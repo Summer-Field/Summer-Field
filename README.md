@@ -19,7 +19,7 @@ Including:
 
 #### Where to reach me
 
-- 📮[Email](xiayejx@foxmail.com)
+- [📮Email](mailto:xiayejx@foxmail.com)
 
 #### Oh, One more thing to tell: I'd appreciate it if you could Follow Me! ❤️
 
