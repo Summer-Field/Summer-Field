@@ -1,16 +1,25 @@
-### Hi there 👋
+### Yo Bro! 👋 You've just found Field! 🎉 
 
-<!--
-**Summer-Field/Summer-Field** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+- [UESCTer](https://github.com/uestcer)👨🏼‍🎓 majored in 💻SE.
+- Intern👷🏼‍♂️ @[bytedance](https://github.com/bytedance) working on OSS.
+- Love guitar🎸 & basketball🏀 and dream to be a great guitar player. 
+- Learning things realated to [CNCF](https://www.cncf.io/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About my life
+
+I'm working on making my own website called [Summer-Field](summer-field.xyz) recently.
+And it's a basement for Field's life pieces.
+
+Including:
+- guitar score🎼 made by me.
+- daily learning note📒 about Music or CS.
+- self-mumbler...?
+
+#### Where to reach me
+
+- 📮[Email](xiayejx@foxmail.com)
+
+#### Oh, One more thing to tell: I'd appreciate it if you could Follow Me! ❤️
+
