@@ -4,7 +4,7 @@
 
 - [UESCTer](https://github.com/uestcer)👨🏼‍🎓 majored in Software Engineering💻.
 - Intern👷🏼‍♂️ [@bytedance](https://github.com/bytedance) working on OSS.
-- Love guitar🎸 & basketball🏀, dream to be a great guitarist. 
+- Love guitar🎸 & basketball🏀, dreaming to be a great guitarist. 
 - Learning things realated to [CNCF](https://www.cncf.io/).
 
 #### About my life
