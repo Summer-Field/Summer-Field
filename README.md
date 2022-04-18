@@ -13,7 +13,7 @@ I'm working on making my own website called [Summer-Field](summer-field.xyz) rec
 And it's a basement for Field's life pieces.
 
 Including:
-- guitar tabs🎼 made by me.
+- guitar tab🎼 transcribed by me.
 - daily learning notes📒 about Music or CS.
 - mumble mumble💩...?
 
