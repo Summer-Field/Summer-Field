@@ -10,7 +10,7 @@
 
 #### About my life
 
-I'm working on making my own website called [Summer-Field](summer-field.xyz) recently. (WIP)
+I'm working on making my own website [Summer-Field](summer-field.xyz) recently. (WIP)
 And it's a basement for Field's life pieces.
 
 Including:
