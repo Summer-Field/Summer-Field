@@ -4,7 +4,7 @@
 
 - Open Source Enthusiast🤩.
 - Undergraduate [@University of Electronic and Science Technology of China](https://en.uestc.edu.cn/)👨🏼‍🎓 majored in Software Engineering💻.
-- Intern👷🏼‍♂️ [@Bytedance](https://github.com/bytedance) working on OSS Infra.
+- Used to Intern👷🏼‍♂️ [@Bytedance](https://github.com/bytedance) working on OSS Infra.
 - Crazy about guitar🎸 & basketball🏀, dreaming to be a great guitarist!
 - Learning things realated to [CNCF](https://www.cncf.io/), all cloud-native!
 
